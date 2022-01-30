@@ -3,6 +3,7 @@ public class Bindu{
 		System.out.println("Hiii Brinda");
 
 		int a = 5;
-		System.out.println(a);
+		int b = 10;
+		System.out.println(b);
 	}
 }
